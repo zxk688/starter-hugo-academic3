@@ -1,5 +1,5 @@
 ---
-widget: accomplishments
+widget: pi
 active: false
 date_format: Jan 2006
 item:
@@ -21,10 +21,10 @@ item:
     organization_url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8859
     title: Reviewer for IEEE Geoscience and Remote Sensing Letters
     url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8859
-widget_id: gg
+widget_id: pi
 headless: true
-weight: 50
-title: Academic Service
+weight: 80
+title: Projects
 subtitle: null
 design:
   columns: "2"
