@@ -6,7 +6,7 @@ experience:
     company: The Chinese University of Hong Kong, Shenzhen
     company_url: https://www.cuhk.edu.cn/en
     company_logo: cuhk
-    location: Hong Kong
+    location: Shenzhen
     date_start: 2020-06-01
     date_end: ""
     #description: |-2
