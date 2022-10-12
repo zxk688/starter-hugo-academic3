@@ -21,7 +21,7 @@ item:
     organization_url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8859
     title: Reviewer for IEEE Geoscience and Remote Sensing Letters
     url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8859
-widget_id: accomplishments
+widget_id: accomplishm
 headless: true
 weight: 100
 title: Projects
