@@ -3,8 +3,8 @@ widget: experience
 date_format: Jan 2006
 experience:
   - title: Postdoctoral Fellow
-    company: The Chinese University of Hong Kong
-    company_url: ""
+    company: The Chinese University of Hong Kong, Shenzhen
+    company_url: https://www.cuhk.edu.cn/en
     company_logo: org-gc
     location: Hong Kong
     date_start: 2020-06-01
@@ -16,10 +16,10 @@ experience:
        # * Modelling
        # * Deploying
   - title: Postdoctoral Fellow; Research Associate
-    company: University X
-    company_url: ""
+    company: The Hong Kong Polytechnic University
+    company_url: https://www.polyu.edu.hk/en/
     company_logo: org-x
-    location: California
+    location: Hong Kong
     date_start: 2019-05-01
     date_end: 2020-05-01
     #description: Taught electronic engineering and researched semiconductor physics.
