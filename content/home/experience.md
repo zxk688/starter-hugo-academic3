@@ -26,7 +26,7 @@ experience:
 widget_id: Posts
 headless: true
 weight: 40
-title: "Academic "
+title: Experience
 subtitle: null
 design:
   columns: "2"
