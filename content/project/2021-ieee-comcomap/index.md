@@ -8,3 +8,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+S﻿ession Chiar
