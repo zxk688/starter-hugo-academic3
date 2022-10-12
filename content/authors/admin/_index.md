@@ -2,8 +2,8 @@
 title: Xiaokang Zhang
 role: PhD
 avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include remote sensing intelligence, computer vision
+  and deep learning.
 interests:
   - Remote sensing intelligence
   - Computer vision
