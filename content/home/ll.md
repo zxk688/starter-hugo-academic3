@@ -1,5 +1,5 @@
 ---
-widget: accomplishments
+widget: projects
 active: false
 date_format: Jan 2006
 item:
@@ -23,8 +23,8 @@ item:
     url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8859
 widget_id: ll
 headless: true
-weight: 50
-title: Academic Service
+weight: 100
+title: Projects
 subtitle: null
 design:
   columns: "2"
