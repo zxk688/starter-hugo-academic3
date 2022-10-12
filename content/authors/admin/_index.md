@@ -1,7 +1,7 @@
 ---
 title: Xiaokang Zhang
 role: PhD
-avatar_filename: 证件照.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
