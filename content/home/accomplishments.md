@@ -39,14 +39,14 @@ item:
     organization_url: https://www.sciencedirect.com/journal/information-fusion
     title: Reviewer for Information Fusion
     url: https://www.sciencedirect.com/journal/information-fusion
-  - certificate_url: https://www.datacamp.com
-    date_end: '2020-12-21'
-    date_start: '2020-07-01'
+  #certificate_url: https://www.datacamp.com
+   #date_end: '2020-12-21'
+  - date_start: '2021-09-01'
     description: ''
-    organization: DataCamp
-    organization_url: https://www.datacamp.com
-    title: 'Object-Oriented Programming in R'
-    url: ''
+    organization: IF=5.343
+    organization_url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8859
+    title: Reviewer for IEEE Geoscience and Remote Sensing Letters
+    url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8859
 
 design:
   columns: '2'
