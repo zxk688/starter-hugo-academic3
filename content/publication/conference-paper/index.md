@@ -32,7 +32,7 @@ summary: ""
 url_dataset: ""
 url_project: ""
 publication_short: In *2022 IEEE International Geoscience and Remote Sensing Symposium*
-url_source: https://ieeexplore.ieee.org/abstract/document/9883127
+url_source: ""
 url_video: ""
 title: Prototype-Based Clustered Federated Learning for Semantic Segmentation of
   Aerial Images
