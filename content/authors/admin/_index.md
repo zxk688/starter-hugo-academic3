@@ -5,9 +5,9 @@ avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Remote sensing intelligence
+  - Computer vision
+  - Deep learning
 social:
   - icon: envelope
     icon_pack: fas
@@ -19,28 +19,20 @@ social:
     icon_pack: fab
     link: https://github.com/zxk688
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: The Chinese University of Hong Kong, Shenzhen
+    url: https://www.cuhk.edu.cn
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Photogrammetry and Remote Sensing
+      institution: Wuhan University
+      year: 2018
+    - course: MEng in Geomatics Engineering
+      institution: Wuhan University
+      year: 2013
 superuser: true
 last_name: Bighetti
 highlight_name: true
 first_name: Alice
-email: ""
+email: zhangxiaokang@cuhk.edu.cn
 ---
-
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Dr. Zhang Xiaokang received a Ph.D. degree in photogrammetry and remote sensing from Wuhan University in 2018. After that, he worked as a Post-doctoral Research Fellow at Hong Kong Polytechnic University and Chinese University of Hong Kong (Shenzhen), and as a Research Associate at Hong Kong Polytechnic University. His research interests include remote sensing intelligence, computer vision, and deep learning. He has authored or coauthored more than 20 scientific publications in international journals and conferences.
