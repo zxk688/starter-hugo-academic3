@@ -25,7 +25,7 @@ abstract: Deep learning (DL) approaches based on convolutional encoder–decoder
   state-of-the-art change detection approaches with dramatically faster training
   convergence and high computational efficiency.
 slides: example
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://ieeexplore.ieee.org/abstract/document/9730826
 publication_types:
   - "2"
 authors:
@@ -44,7 +44,7 @@ url_source: ""
 url_video: ""
 title: Multilevel Deformable Attention-Aggregated Networks for Change Detection
   in Bitemporal Remote Sensing Imagery
-doi: ""
+doi: 10.1109/TGRS.2022.3157721
 featured: false
 tags:
   - Source Themes
@@ -57,7 +57,7 @@ date: 2022-10-12T13:46:00.000Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
-url_code: https://github.com/wowchemy/wowchemy-hugo-themes
+url_code: ""
 ---
 
 {{% callout note %}}
