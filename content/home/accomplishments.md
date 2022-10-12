@@ -23,12 +23,12 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: [https://www.coursera.org](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385)
+  - certificate_url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385
     date_end: ''
     date_start: '2021-01-25'
     description: ''
     organization: Coursera
-    organization_url: [https://www.coursera.org](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385)
+    organization_url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385
     title: IEEE Transactions on Neural Networks and Learning Systems
     url: ''
   - certificate_url: https://www.edx.org
