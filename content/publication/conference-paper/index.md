@@ -18,7 +18,7 @@ abstract: Despite its impressive performance on semantic segmentation of remote
   heteroge-neous datasets. Extensive experiments on the Inria Aerial Image
   Dataset confirm the effectiveness of FedPHC.
 slides: example
-url_pdf: ""
+url_pdf: https://ieeexplore.ieee.org/abstract/document/9883127
 publication_types:
   - "1"
 authors:
@@ -32,11 +32,11 @@ summary: ""
 url_dataset: ""
 url_project: ""
 publication_short: In *2022 IEEE International Geoscience and Remote Sensing Symposium*
-url_source: ""
+url_source: https://ieeexplore.ieee.org/abstract/document/9883127
 url_video: ""
 title: Prototype-Based Clustered Federated Learning for Semantic Segmentation of
   Aerial Images
-doi: ""
+doi: 10.1109/IGARSS46834.2022.9883127
 featured: true
 tags: []
 projects:
