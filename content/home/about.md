@@ -8,5 +8,5 @@ active: true
 author: admin
 design:
   background:
-    image: 证件照.jpg
+    image: ""
 ---
