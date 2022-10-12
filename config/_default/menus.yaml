@@ -12,9 +12,9 @@ main:
     weight: 20
   - name: Publications
     url: '#publications'
-  --name = "Academic"
-  url = "#accomplishments"
-  weight = 30
+  - name: "Academic"
+    url: "#accomplishments"
+    weight: 30
     weight: 40
   - name: Contact
     url: '#contact'
