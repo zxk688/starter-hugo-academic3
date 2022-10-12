@@ -23,7 +23,7 @@ item:
     url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8859
 widget_id: kk
 headless: true
-weight: 50
+weight: 190
 title: Academic Service
 subtitle: null
 design:
