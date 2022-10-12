@@ -23,7 +23,7 @@ item:
     url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8859
 widget_id: accomplishm
 headless: true
-weight: 100
+weight: 180
 title: Projects
 subtitle: null
 design:
