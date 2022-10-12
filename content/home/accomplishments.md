@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Accomplish&shy;ments'
+title: 'Academic'
 subtitle:
 
 # Date format
@@ -23,13 +23,13 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://www.coursera.org
+  - certificate_url: [https://www.coursera.org](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385)
     date_end: ''
     date_start: '2021-01-25'
     description: ''
     organization: Coursera
-    organization_url: https://www.coursera.org
-    title: IEEE Neural Networks and Deep Learning
+    organization_url: [https://www.coursera.org](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385)
+    title: IEEE Transactions on Neural Networks and Learning Systems
     url: ''
   - certificate_url: https://www.edx.org
     date_end: ''
