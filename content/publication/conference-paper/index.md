@@ -42,12 +42,12 @@ tags: []
 projects:
   - example
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
+  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/IgpMkNfsfys)"
   focal_point: ""
   preview_only: false
-date: 2022-07-01T00:00:00Z
+date: 2022-07-01T00:00:00.000Z
 url_slides: ""
-publishDate: 2022-07-01T00:00:00Z
+publishDate: 2022-07-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
