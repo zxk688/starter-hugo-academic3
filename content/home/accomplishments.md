@@ -25,7 +25,7 @@ date_format: Jan 2006
 item:
   - certificate_url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385
     date_end: ''
-    date_start: '2022-09'
+    date_start: '2022-09-01'
     description: IF=14.255
     organization: IEEE
     organization_url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385
