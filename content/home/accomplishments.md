@@ -35,7 +35,7 @@ item:
   - certificate_url: https://www.edx.org
     date_end: ''
     date_start: '2021-01-01'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
+    description: Elsevier
     organization: edX
     organization_url: https://www.edx.org
     title: Blockchain Fundamentals
