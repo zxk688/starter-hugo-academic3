@@ -7,18 +7,24 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Projects
+  - name: Experience
     url: '#projects'
     weight: 20
+  - name: Conference
+    url: '#projects'
+    weight: 30
   - name: Publications
     url: '#publications'
-  - name: "Academic"
-    url: "#accomplishments"
-    weight: 30
     weight: 40
+  - name: Service
+    url: "#accomplishments"
+    weight: 50
+  - name: Projects
+    url: '#projectsnew'
+    weight: 60
   - name: Contact
     url: '#contact'
-    weight: 50
+    weight: 70
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
