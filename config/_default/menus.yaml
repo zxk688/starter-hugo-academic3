@@ -10,14 +10,14 @@ main:
   - name: Experience
     url: '#experience'
     weight: 20
-  - name: Conference
-    url: '#projects'
-    weight: 30
   - name: Projects
     url: '#projectsnew'
-    weight: 40
+    weight: 30
   - name: Publications
     url: '#publications'
+    weight: 40
+  - name: Conference
+    url: '#projects'
     weight: 50
   - name: Service
     url: "#accomplishments"
