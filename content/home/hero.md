@@ -1,5 +1,5 @@
 ---
-widget: accomplishments
+widget: hero
 active: false
 date_format: Jan 2006
 item:
