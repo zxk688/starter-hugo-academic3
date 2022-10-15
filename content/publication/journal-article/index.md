@@ -34,9 +34,21 @@ authors:
   - Man-On Pun
 author_notes: []
 publication: "*IEEE Transactions on Geoscience and Remote Sensing*, 60:1-18"
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
-  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
-  condimentum.
+summary: "We propose multilevel deformable attention-aggregated networks
+  (MLDANets) to effectively learn long-range dependencies across multiple levels
+  of bitemporal convolutional features for multiscale context aggregation.
+  Specifically, a multilevel change-aware deformable attention (MCDA) module
+  consisting of linear projections with learnable parameters is built based on
+  multihead self-attention (SA) with a deformable sampling strategy. It is
+  applied in the skip connections of an encoder–decoder network taking a
+  bitemporal deep feature hypersequence (BDFH) as input. MCDA can progressively
+  address a set of informative sampling locations in multilevel feature maps for
+  each query element in the BDFH. Simultaneously, MCDA learns to characterize
+  beneficial information from different spatial and feature subspaces of BDFH
+  using multiple attention heads for change perception. As a result, contextual
+  dependencies across multiple levels of bitemporal feature maps can be
+  adaptively aggregated via attention weights to generate multilevel
+  discriminative change-aware representations. "
 url_dataset: ""
 url_project: ""
 publication_short: ""
