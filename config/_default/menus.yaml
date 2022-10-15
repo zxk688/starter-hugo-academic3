@@ -10,13 +10,13 @@ main:
   - name: Experience 
     url: '#experience'
     weight: 40
-  - name: Academic service
+  - name: Academic Service
     url: '#accomplishments'
     weight: 50
-  - name: Featured publications
+  - name: Featured Publications
     url: '#featured'
     weight: 60
-  - name: Recent publications
+  - name: Recent Publications
     url: '#publications'
     weight: 70
   - name: Projects
