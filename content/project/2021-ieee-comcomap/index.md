@@ -2,7 +2,7 @@
 title: 2021 IEEE COMCOMAP
 subtitle: a
 date: 2022-10-12T11:59:46.822Z
-summary: b
+summary: ""
 draft: false
 featured: false
 authors:
