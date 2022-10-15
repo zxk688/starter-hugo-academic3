@@ -8,4 +8,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-O﻿ral presentation
+O﻿ral presentation.
