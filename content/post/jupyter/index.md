@@ -1,17 +1,23 @@
 ---
-title: Display Jupyter Notebooks with Academic
-subtitle: Learn how to blog in Academic using Jupyter notebooks
-summary: Learn how to blog in Academic using Jupyter notebooks
+summary: |-
+  <!--StartFragment-->
+
+  China Postdoctoral Science Foundation under grant 2020M682038
+
+  <!--EndFragment-->
 authors:
-  - admin
+  - A semi supervised classification method for multi source remote sensing
+    images considering the uncertainty of deep learning
+lastMod: 2019-09-05T00:00:00Z
+title: As the PI
+subtitle: Learn how to blog in Academic using Jupyter notebooks
+date: 2019-02-05T00:00:00Z
 tags: []
 categories: []
 projects: []
-date: '2019-02-05T00:00:00Z'
-lastMod: '2019-09-05T00:00:00Z'
 image:
-  caption: ''
-  focal_point: ''
+  caption: ""
+  focal_point: ""
 ---
 
 ```python
