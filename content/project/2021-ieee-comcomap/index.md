@@ -12,6 +12,7 @@ tags:
 categories:
   - e
 external_link: f
+links: []
 image:
   filename: ""
   focal_point: Smart
