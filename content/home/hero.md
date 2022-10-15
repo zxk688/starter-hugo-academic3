@@ -1,5 +1,5 @@
 ---
-widget: hero
+widget: collection
 active: false
 date_format: Jan 2006
 item:
@@ -24,7 +24,7 @@ item:
 widget_id: kk
 headless: true
 weight: 190
-title: Academic Service
+title: AAA
 subtitle: null
 design:
   columns: "2"
