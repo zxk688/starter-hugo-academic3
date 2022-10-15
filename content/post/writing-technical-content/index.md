@@ -1,16 +1,15 @@
 ---
-summary: >-
+summary: |-
   <!--StartFragment-->
 
-
-  Research on Reliability Analysis and Controlling Method of Land Cover Dynamic Monitoring Data
-
+  National Natural Science Foundation of China under grant 41801323
 
   <!--EndFragment-->
 authors:
-  - As the PI
+  - Research on Reliability Analysis and Controlling Method of Land Cover
+    Dynamic Monitoring Data
 math: true
-title: National Natural Science Foundation of China under grant 41801323
+title: "As the PI "
 subtitle: ""
 date: 2022-10-15T12:36:11.450Z
 tags:
