@@ -8,7 +8,7 @@ summary: |-
   Hubei Province Youth Science and Technology Morning Light Project
 
   <!--EndFragment-->
-draft: false
+draft: True
 featured: false
 authors:
   - Research on the Uncertainty Analysis of Remote Sensing Spatio-temporal Big
