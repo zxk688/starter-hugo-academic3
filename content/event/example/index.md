@@ -9,7 +9,7 @@ date: 2030-05-27T13:00:00.000Z
 all_day: true
 event: Wowchemy Conference
 slides: example
-draft: true
+draft: false
 url_pdf: ""
 summary: An example talk using Wowchemy's Markdown slides feature.
 date_end: 2030-06-01T15:00:00Z
