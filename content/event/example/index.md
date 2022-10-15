@@ -31,5 +31,7 @@ projects:
 image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)"
   focal_point: Right
+  alt_text: Research on Reliability Analysis and Controlling Method of Land Cover
+    Dynamic Monitoring Data
 url_code: ""
 ---
