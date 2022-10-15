@@ -1,7 +1,8 @@
 ---
 title: As the PI
-abstract: National Natural Science Foundation of China under grant 41801323
-location: Wowchemy HQ
+abstract: Research on Reliability Analysis and Controlling Method of Land Cover
+  Dynamic Monitoring Data
+location: China
 date: 2030-05-27T13:00:00.000Z
 all_day: true
 event: Wowchemy Conference
