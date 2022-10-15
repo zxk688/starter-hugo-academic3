@@ -20,7 +20,7 @@ categories:
 projects:
   - 2019.05-2020.5
 image:
-  filename: featured
+  filename: ""
   focal_point: Smart
   preview_only: true
   caption: 2019.05-2020.5
