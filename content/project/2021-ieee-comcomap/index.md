@@ -1,11 +1,22 @@
 ---
 title: 2021 IEEE COMCOMAP
+subtitle: a
 date: 2022-10-12T11:59:46.822Z
+summary: b
 draft: false
 featured: false
+authors:
+  - c
+tags:
+  - d
+categories:
+  - e
+external_link: f
 image:
   filename: ""
   focal_point: Smart
   preview_only: false
+  caption: g
+  alt_text: h
 ---
 As the session chair.
