@@ -65,6 +65,7 @@ image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)"
   focal_point: ""
   preview_only: false
+  filename: featured.png
 date: 2022-10-12T13:46:00.000Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
