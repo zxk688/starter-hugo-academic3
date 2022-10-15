@@ -6,7 +6,7 @@ date: 2019-01-01T13:00:00.000Z
 slides: National Natural Science Foundation of China under grant 41801323
 draft: false
 url_pdf: ""
-summary: National Natural Science Foundation of China.
+summary: As the PI.
 title: National Natural Science Foundation of China
 date_end: 2021-12-31T15:00:00.000Z
 all_day: true
