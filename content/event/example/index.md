@@ -31,8 +31,7 @@ projects:
 image:
   caption: ""
   focal_point: Right
-  alt_text: Research on Reliability Analysis and Controlling Method of Land Cover
-    Dynamic Monitoring Data
+  alt_text: ""
 url_code: ""
 ---
 Research on Reliability Analysis and Controlling Method of Land Cover Dynamic Monitoring Data
