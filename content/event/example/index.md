@@ -9,7 +9,7 @@ event: National Natural Science Foundation of China under grant 41801323
 slides: National Natural Science Foundation of China under grant 41801323
 draft: false
 url_pdf: ""
-summary: National Natural Science Foundation of China
+summary: An example talk using Wowchemy's Markdown slides feature.
 date_end: 2021-12-31T15:00:00.000Z
 event_url: https://www.nsfc.gov.cn/english/site_1/index.html
 featured: false
@@ -25,13 +25,10 @@ address:
 links: []
 publishDate: 2017-01-01T00:00:00.000Z
 tags: []
-projects:
-  - Research on Reliability Analysis and Controlling Method of Land Cover
-    Dynamic Monitoring Data
+projects: []
 image:
   caption: ""
   focal_point: Right
   alt_text: ""
 url_code: ""
 ---
-Research on Reliability Analysis and Controlling Method of Land Cover Dynamic Monitoring Data
