@@ -45,7 +45,7 @@ url_video: ""
 title: Multilevel Deformable Attention-Aggregated Networks for Change Detection
   in Bitemporal Remote Sensing Imagery
 doi: 10.1109/TGRS.2022.3157721
-featured: false
+featured: true
 tags:
   - Source Themes
 projects: []
