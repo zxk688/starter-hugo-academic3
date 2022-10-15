@@ -20,7 +20,7 @@ image:
   placement: 2
   caption: "Image credit: [**John Moeses
     Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)"
-  alt_text: 2019.01-2021.12
+  alt_text: ""
   focal_point: 2019.01-2021.12
 ---
 
