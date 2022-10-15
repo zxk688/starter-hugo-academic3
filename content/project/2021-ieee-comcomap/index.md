@@ -8,4 +8,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-S﻿ession Chiar
+As the session chair.
