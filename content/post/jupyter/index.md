@@ -12,12 +12,16 @@ lastMod: 2019-09-05T00:00:00Z
 title: As the PI
 subtitle: Learn how to blog in Academic using Jupyter notebooks
 date: 2019-02-05T00:00:00Z
-tags: []
-categories: []
-projects: []
+tags:
+  - 2020.11-2022.03
+categories:
+  - 2020.11-2022.03
+projects:
+  - 2020.11-2022.03
 image:
-  caption: ""
-  focal_point: ""
+  caption: 2020.11-2022.03
+  focal_point: 2020.11-2022.03
+  alt_text: 2020.11-2022.03
 ---
 
 ```python
