@@ -15,9 +15,7 @@ subtitle: ""
 date: 2019-07-12
 tags:
   - 2019.01-2021.12
-projects:
-  - Research on Reliability Analysis and Controlling Method of Land Cover
-    Dynamic Monitoring Data
+projects: []
 image:
   placement: 2
   caption: "Image credit: [**John Moeses
