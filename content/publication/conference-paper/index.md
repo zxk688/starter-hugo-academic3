@@ -37,7 +37,7 @@ url_video: ""
 title: Prototype-Based Clustered Federated Learning for Semantic Segmentation of
   Aerial Images
 doi: 10.1109/IGARSS46834.2022.9883127
-featured: true
+featured: false
 tags: []
 projects:
   - example
