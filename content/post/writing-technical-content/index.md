@@ -13,7 +13,8 @@ math: true
 title: National Natural Science Foundation of China under grant 41801323
 subtitle: ""
 date: 2022-10-15T12:36:11.450Z
-tags: []
+tags:
+  - 2019.01-2021.12
 categories: []
 projects: []
 image:
@@ -21,7 +22,7 @@ image:
   caption: "Image credit: [**John Moeses
     Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)"
   alt_text: ""
-  focal_point: 2019.01-2021.12
+  focal_point: ""
 ---
 
 Wowchemy is designed to give technical content creators a seamless experience. You can focus on the content and Wowchemy handles the rest.
