@@ -1,5 +1,5 @@
 ---
-title: As the PI
+title: China Postdoctoral Science Foundation
 abstract: A semi-supervised classification method for multi-source remote
   sensing images considering the uncertainty of deep learning.
 location: China
