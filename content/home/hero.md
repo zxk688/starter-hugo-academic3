@@ -23,7 +23,7 @@ item:
     url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8859
 widget_id: kk
 headless: true
-weight: 190
+weight: 120
 title: AAA
 subtitle: null
 design:
