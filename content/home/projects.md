@@ -1,5 +1,5 @@
 ---
-widget: accomplishments
+widget: projects
 widget_id: ss
 headless: true
 weight: 65
