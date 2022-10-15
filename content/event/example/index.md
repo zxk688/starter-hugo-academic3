@@ -9,7 +9,7 @@ event: National Natural Science Foundation of China under grant 41801323
 slides: National Natural Science Foundation of China under grant 41801323
 draft: false
 url_pdf: ""
-summary: An example talk using Wowchemy's Markdown slides feature.
+summary: National Natural Science Foundation of China.
 date_end: 2021-12-31T15:00:00.000Z
 event_url: https://www.nsfc.gov.cn/english/site_1/index.html
 featured: false
