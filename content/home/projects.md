@@ -2,7 +2,7 @@
 widget: portfolio
 widget_id: ss
 headless: true
-weight: 65
+weight: 90
 title: Conference
 subtitle: ""
 content:
