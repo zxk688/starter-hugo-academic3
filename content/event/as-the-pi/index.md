@@ -5,6 +5,7 @@ abstract: A semi-supervised classification method for multi-source remote
 location: China
 date: 2020-11-01T13:23:54.539Z
 date_end: 2022-03-30T16:00:00.000Z
+summary: As the PI.
 all_day: true
 event: China Postdoctoral Science Foundation under grant 2020M682038
 event_url: https://jj.chinapostdoctor.org.cn/website/index.html
