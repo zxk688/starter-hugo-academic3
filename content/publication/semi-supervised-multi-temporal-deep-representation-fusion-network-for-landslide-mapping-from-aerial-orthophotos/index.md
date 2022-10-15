@@ -9,6 +9,7 @@ authors:
   - Man-On Pun
   - Ming Liu
 doi: 10.3390/rs13040548
+publication: " *Remote Sensing*,13(4):548. "
 draft: false
 featured: false
 projects: []
