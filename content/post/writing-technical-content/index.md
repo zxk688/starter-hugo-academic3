@@ -20,8 +20,8 @@ image:
   placement: 2
   caption: "Image credit: [**John Moeses
     Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)"
-  alt_text: 2019.01-2021.12
-  focal_point: ""
+  alt_text: ""
+  focal_point: 2019.01-2021.12
 ---
 
 Wowchemy is designed to give technical content creators a seamless experience. You can focus on the content and Wowchemy handles the rest.
