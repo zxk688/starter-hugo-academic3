@@ -1,8 +1,4 @@
 ---
-title: National Natural Science Foundation of China under grant 41801323
-date: 2019-07-12
-math: true
-subtitle: As the PI
 summary: >-
   <!--StartFragment-->
 
@@ -11,6 +7,12 @@ summary: >-
 
 
   <!--EndFragment-->
+math: true
+title: National Natural Science Foundation of China under grant 41801323
+subtitle: As the PI
+date: 2019-07-12
+tags:
+  - 2019.01-2021.12
 projects:
   - Research on Reliability Analysis and Controlling Method of Land Cover
     Dynamic Monitoring Data
@@ -19,6 +21,7 @@ image:
   caption: "Image credit: [**John Moeses
     Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)"
   alt_text: 2019.01-2021.12
+  focal_point: 2019.01-2021.12
 ---
 
 Wowchemy is designed to give technical content creators a seamless experience. You can focus on the content and Wowchemy handles the rest.
