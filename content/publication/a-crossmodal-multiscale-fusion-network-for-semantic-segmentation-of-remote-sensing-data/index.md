@@ -9,7 +9,7 @@ authors:
   - admin
   - Man-On Pun
 publication: "*IEEE Journal of Selected Topics in Applied Earth Observations and
-  Remote Sensing*, 2022, 15: 3463-3474."
+  Remote Sensing*, 2022, 15: 3463-3474"
 abstract: Driven by the rapid development of Earth observation sensors, semantic
   segmentation using multimodal fusion of remote sensing data has drawn
   substantial research attention in recent years. However, existing multimodal
