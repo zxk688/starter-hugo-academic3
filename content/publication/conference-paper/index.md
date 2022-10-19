@@ -23,7 +23,7 @@ publication_types:
   - "1"
 authors:
   - Boning Zhang
-  - admin
+  - admin*
   - Man-On Pun
   - Ming Liu
 author_notes: []
