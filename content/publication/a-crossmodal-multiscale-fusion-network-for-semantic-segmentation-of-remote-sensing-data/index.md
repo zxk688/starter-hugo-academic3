@@ -6,7 +6,7 @@ publication_types:
   - "2"
 authors:
   - Xianping Ma
-  - admin
+  - admin*
   - Man-On Pun
 publication: "*IEEE Journal of Selected Topics in Applied Earth Observations and
   Remote Sensing*, 2022, 15: 3463-3474"
