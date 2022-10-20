@@ -1,7 +1,7 @@
 ---
 title: Hubei Province Youth Science and Technology Morning Light Project
 abstract: As the PI.
-location: 2019.05-2020.5
+location: China
 date: 2019-05-01T15:10:56.019Z
 date_end: 2020-04-30T16:00:00.000Z
 all_day: true
