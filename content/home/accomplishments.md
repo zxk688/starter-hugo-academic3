@@ -20,6 +20,12 @@ item:
     organization_url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8859
     title: Reviewer for IEEE Geoscience and Remote Sensing Letters
     url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8859
+  - date_start: 2022-10-01
+    description: ""
+    organization: IF=5.349
+    organization_url: https://www.mdpi.com/journal/remotesensing
+    title: Reviewer for Remote Sensing
+    url: https://www.mdpi.com/journal/remotesensing
   - date_start: 2019-01-01
     title: Communication reviewer for National Natural Science Foundation of China
     organization: NSFC
