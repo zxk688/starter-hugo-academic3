@@ -35,4 +35,4 @@ highlight_name: true
 first_name: Alice
 email: zhangxiaokang@cuhk.edu.cn
 ---
-Dr. Zhang Xiaokang received a Ph.D. degree in photogrammetry and remote sensing from Wuhan University in 2018. After that, he worked as a Post-doctoral Research Fellow at The Hong Kong Polytechnic University and The Chinese University of Hong Kong (Shenzhen), and as a Research Associate at The Hong Kong Polytechnic University. His research interests include remote sensing intelligence, computer vision, and deep learning. He has authored or coauthored more than 20 scientific publications in international journals and conferences.
+Dr. Zhang Xiaokang (张效康) received a Ph.D. degree in photogrammetry and remote sensing from Wuhan University in 2018. After that, he worked as a Post-doctoral Research Fellow at The Hong Kong Polytechnic University and The Chinese University of Hong Kong (Shenzhen), and as a Research Associate at The Hong Kong Polytechnic University. His research interests include remote sensing intelligence, computer vision, and deep learning. He has authored or coauthored more than 20 scientific publications in international journals and conferences.
