@@ -4,10 +4,10 @@ title: Cross-domain landslide mapping from large-scale remote sensing images
 publication_types:
   - "0"
 authors:
-  - X Zhang
-  - W Yu
-  - MO Pun
-  - W Shi
+  - admin*
+  - Xiaokang Zhang
+  - Man-On Pun
+  - Wenzhong Shi
 doi: https://doi.org/10.1016/j.isprsjprs.2023.01.018
 abstract: Landslide mapping via pixel-wise classification of remote sensing
   imagery is essential for hazard prevention and risk assessment.
