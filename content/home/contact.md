@@ -25,7 +25,7 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: zhangxiaokang@cuhk.edu.cn
+  email: natezhangxk@gmail.com
   address:
     street: Longxiang Road
     city: Shenzhen
