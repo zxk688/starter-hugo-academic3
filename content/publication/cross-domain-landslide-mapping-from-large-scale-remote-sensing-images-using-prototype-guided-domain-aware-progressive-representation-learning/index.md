@@ -9,6 +9,7 @@ authors:
   - Man-On Pun
   - Wenzhong Shi
 doi: https://doi.org/10.1016/j.isprsjprs.2023.01.018
+publication: "*ISPRS Journal of Photogrammetry and Remote Sensing* 197, 1-17"
 abstract: Landslide mapping via pixel-wise classification of remote sensing
   imagery is essential for hazard prevention and risk assessment.
   Deep-learning-based change detection greatly aids landslide mapping by
