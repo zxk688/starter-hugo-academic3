@@ -41,7 +41,7 @@ abstract: Landslide mapping via pixel-wise classification of remote sensing
 draft: false
 featured: true
 image:
-  filename: featured
+  filename: loc.png
   focal_point: Smart
   preview_only: false
 date: 2023-03-20T02:01:34.512Z
