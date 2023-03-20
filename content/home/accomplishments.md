@@ -32,6 +32,12 @@ item:
     organization_url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36
     title: Reviewer for IEEE Transactions on Geoscience and Remote Sensing
     url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36
+  - date_end: ""
+    date_start: 2023-02-01
+    organization: IF
+    organization_url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385
+    title: Reviewer for International Journal of Digital Earth, Mathematics, Electronics and Journal of Electronic Imaging
+    url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385
   - date_start: 2019-01-01
     title: Communication reviewer for National Natural Science Foundation of China
     organization: NSFC
