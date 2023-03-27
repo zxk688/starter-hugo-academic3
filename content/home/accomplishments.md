@@ -35,9 +35,15 @@ item:
   - date_end: ""
     date_start: 2023-02-01
     organization: IF
-    organization_url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385
-    title: Reviewer for International Journal of Digital Earth, Mathematics, Electronics and Journal of Electronic Imaging
-    url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385
+    organization_url: https://www.tandfonline.com/journals/tjde20
+    title: Reviewer for International Journal of Digital Earth, Mathematics, Electronics, Journal of Electronic Imaging and IEEE Access.
+    url: https://www.tandfonline.com/journals/tjde20
+  - date_end: ""
+    date_start: 2023-03-01
+    organization: IF=8.665
+    organization_url: https://www.sciencedirect.com/journal/expert-systems-with-applications
+    title: Reviewer for International Journal of Digital Earth, Mathematics, Electronics, Journal of Electronic Imaging and IEEE Access.
+    url: https://www.sciencedirect.com/journal/expert-systems-with-applications
   - date_start: 2019-01-01
     title: Communication reviewer for National Natural Science Foundation of China
     organization: NSFC
