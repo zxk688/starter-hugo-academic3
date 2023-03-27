@@ -42,7 +42,7 @@ item:
     date_start: 2023-03-01
     organization: IF=8.665
     organization_url: https://www.sciencedirect.com/journal/expert-systems-with-applications
-    title: Reviewer for International Journal of Digital Earth, Mathematics, Electronics, Journal of Electronic Imaging and IEEE Access.
+    title: Reviewer for Expert Systems With Applications.
     url: https://www.sciencedirect.com/journal/expert-systems-with-applications
   - date_start: 2019-01-01
     title: Communication reviewer for National Natural Science Foundation of China
