@@ -8,6 +8,8 @@ authors:
   - admin
   - Zhiguo Wang
   - Man-On Pun
+doi: "DOI: 10.1109/TGRS.2023.3240982"
+publication: "*IEEE Transactions on Geoscience and Remote Sensing* 61, 1-15"
 draft: false
 featured: false
 image:
