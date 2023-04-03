@@ -3,6 +3,7 @@ title: Unsupervised Domain Adaptation Augmented by Mutually Boosted Attention
   for Semantic Segmentation of VHR Remote Sensing Images
 publication_types:
   - "0"
+  - "2"
 authors:
   - Xianping Ma
   - admin
