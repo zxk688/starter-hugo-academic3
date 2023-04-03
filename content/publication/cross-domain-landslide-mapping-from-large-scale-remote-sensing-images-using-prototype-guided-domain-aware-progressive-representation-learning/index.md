@@ -5,6 +5,7 @@ publication_types:
   - "0"
 authors:
   - admin*
+  - Weikang Yu
   - Man-On Pun
   - Wenzhong Shi
 doi: https://doi.org/10.1016/j.isprsjprs.2023.01.018
