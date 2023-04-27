@@ -2,7 +2,7 @@
 widget: experience
 date_format: Jan 2006
 experience:
-  - title: Postdoctoral Fellow
+  - title: Postdoctoral Fellow; Research Scientist
     company: The Chinese University of Hong Kong, Shenzhen
     company_url: https://www.cuhk.edu.cn/en
     company_logo: cuhk
