@@ -36,7 +36,7 @@ item:
     date_start: 2023-02-01
     organization: IF
     organization_url: https://www.tandfonline.com/journals/tjde20
-    title: Reviewer for International Journal of Digital Earth, Mathematics, Electronics, Journal of Electronic Imaging, IEEE Access and Brazilian Archives of Biology and Technology.
+    title: Reviewer for International Journal of Digital Earth(IF:4.606), Mathematics(IF:2.592), Electronics(IF:2.690), Journal of Electronic Imaging(IF:0.829), IEEE Access(IF:3.476) and Brazilian Archives of Biology and Technology(IF:1.18).
     url: https://www.tandfonline.com/journals/tjde20
   - date_end: ""
     date_start: 2023-03-01
