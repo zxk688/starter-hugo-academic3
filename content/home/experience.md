@@ -23,7 +23,7 @@ experience:
        # * Analysing
        # * Modelling
        # * Deploying
-     - title: Research Associate
+ - title: Research Associate
     company: Wuhan University of Science and Technology
     company_url: https://www.wust.edu.cn/
     company_logo: polyu
