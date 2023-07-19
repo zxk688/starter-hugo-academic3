@@ -23,12 +23,12 @@ experience:
        # * Analysing
        # * Modelling
        # * Deploying
-  - title: Research Associate
-    company: The Hong Kong Polytechnic University
-    company_url: https://www.polyu.edu.hk/en/
+  - title: Specially-appointed Professor
+    company: Wuhan University of Science and Technology
+    company_url: https://www.wust.edu.cn/
     company_logo: polyu
-    location: Hong Kong
-    date_start: 2023-08-01
+    location: Wuhan
+    date_start: 2023-03-01
     date_end: ""
     #description: |-2
         #Responsibilities include:
