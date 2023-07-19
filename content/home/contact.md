@@ -27,16 +27,16 @@ content:
   # Contact details (edit or remove options as required)
   email: natezhangxk@gmail.com
   address:
-    street: Longxiang Road
-    city: Shenzhen
-    region: Guangdong
+    street: 181 Chatham Road South
+    city: Hong Kong
+    region: Hung Hom, Kowloon
     postcode: '518172'
-    country: China
+    country: Hong Kong
     country_code: CHN
   coordinates:
     latitude: '37.4275'
     longitude: '-122.1697'
-  directions: Room 419, Chengdao Building
+  directions: Block Z
 
 
 design:
