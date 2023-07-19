@@ -36,6 +36,19 @@ experience:
        # * Analysing
        # * Modelling
        # * Deploying
+- title: Research Associate
+    company: The Hong Kong Polytechnic University
+    company_url: https://www.polyu.edu.hk/en/
+    company_logo: polyu
+    location: Hong Kong
+    date_start: 2023-08-01
+    date_end: ""
+    #description: |-2
+        #Responsibilities include:
+        
+       # * Analysing
+       # * Modelling
+       # * Deploying
 widget_id: Posts
 headless: true
 weight: 40
