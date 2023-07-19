@@ -8,7 +8,7 @@ experience:
     company_logo: cuhk
     location: Shenzhen
     date_start: 2020-06-01
-    date_end: ""
+    date_end: 2022-12-31
     #description: |-2
         #Responsibilities include:
         
