@@ -23,12 +23,12 @@ experience:
     date_start: 2019-05-01
     date_end: 2021-05-31
     #description: Taught electronic engineering and researched semiconductor physics.
-  - title: Postdoctoral Fellow; Research Scientist
-    company: The Chinese University of Hong Kong, Shenzhen
-    company_url: https://www.cuhk.edu.cn/en
+  - title: Research Associate
+    company: The Hong Kong Polytechnic University
+    company_url: https://www.polyu.edu.hk/en/
     company_logo: polyu
     location: Shenzhen
-    date_start: 2020-06-01
+    date_start: 2023-08-01
     date_end: ""
     #description: |-2
         #Responsibilities include:
