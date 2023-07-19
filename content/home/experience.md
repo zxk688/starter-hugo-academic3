@@ -36,7 +36,7 @@ experience:
        # * Analysing
        # * Modelling
        # * Deploying
-- title: Research Associate
+  - title: Research Associate
     company: The Hong Kong Polytechnic University
     company_url: https://www.polyu.edu.hk/en/
     company_logo: polyu
