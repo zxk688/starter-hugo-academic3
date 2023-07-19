@@ -23,6 +23,19 @@ experience:
        # * Analysing
        # * Modelling
        # * Deploying
+   - title: Research Associate
+    company: Wuhan University of Science and Technology
+    company_url: https://www.wust.edu.cn/
+    company_logo: polyu
+    location: Wuhan
+    date_start: 2023-03-01
+    date_end: ""
+    #description: |-2
+        #Responsibilities include:
+        
+       # * Analysing
+       # * Modelling
+       # * Deploying
   - title: Research Associate
     company: The Hong Kong Polytechnic University
     company_url: https://www.polyu.edu.hk/en/
