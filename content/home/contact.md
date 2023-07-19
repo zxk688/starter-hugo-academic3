@@ -28,8 +28,8 @@ content:
   email: natezhangxk@gmail.com
   address:
     street: 181 Chatham Road South
-    city: Hong Kong
-    region: Hung Hom, Kowloon
+    city: Hung Hom
+    region: Kowloon
     postcode: '518172'
     country: Hong Kong
     country_code: CHN
