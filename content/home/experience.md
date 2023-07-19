@@ -26,7 +26,7 @@ experience:
   - title: Specially-appointed Professor
     company: Wuhan University of Science and Technology
     company_url: https://www.wust.edu.cn/
-    company_logo: polyu
+    company_logo: wust
     location: Wuhan
     date_start: 2023-03-01
     date_end: ""
