@@ -2,7 +2,7 @@
 widget: accomplishments
 date_format: Jan 2006
 item:
-   - date_end: ""
+ - date_end: ""
     date_start: 2023-09-01
     organization: IF=5.349
     organization_url: https://www.mdpi.com/journal/remotesensing
