@@ -2,6 +2,12 @@
 widget: accomplishments
 date_format: Jan 2006
 item:
+   - date_end: ""
+    date_start: 2023-09-01
+    organization: IF=5.349
+    organization_url: https://www.mdpi.com/journal/remotesensing
+    title: Guest Editor for Remote Sensing
+    url: https://www.mdpi.com/journal/remotesensing
   - date_end: ""
     date_start: 2022-09-01
     organization: IF=14.255
