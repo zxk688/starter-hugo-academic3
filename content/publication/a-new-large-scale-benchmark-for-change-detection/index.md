@@ -5,6 +5,8 @@ publication_types:
   - "0"
 authors:
   - admin*
+author_notes:
+  - https://github.com/zxk688/GVLM
 draft: false
 featured: true
 image:
