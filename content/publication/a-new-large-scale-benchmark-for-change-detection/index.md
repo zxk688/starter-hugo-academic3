@@ -7,6 +7,10 @@ authors:
   - admin*
 author_notes:
   - https://github.com/zxk688/GVLM
+abstract: "It includes 17 bitemporal very-high-resolution imagery pairs with a
+  spatial resolution of 0.59 m acquired via Google Earth service. Each
+  sub-dataset contains a pair of bitemporal images and the corresponding
+  ground-truth map. "
 draft: false
 featured: true
 image:
