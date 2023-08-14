@@ -19,7 +19,7 @@ social:
     icon_pack: fab
     link: https://github.com/zxk688
 organizations:
-  - name: The Hong Kong Polytechnic University 
+  - name: The Hong Kong Polytechnic University
     url: https://www.polyu.edu.hk/en/
 education:
   courses:
@@ -36,4 +36,4 @@ first_name: Alice
 email: natezhangxk@gmail.com
 ---
 Dr. Zhang Xiaokang (张效康) received a Ph.D. degree in photogrammetry and remote sensing from Wuhan University in 2018. After that, he worked as a Post-doctoral Research Fellow at The Hong Kong Polytechnic University and The Chinese University of Hong Kong (Shenzhen), and as a Research Associate at The Hong Kong Polytechnic University. His research interests include remote sensing intelligence, computer vision, and deep learning. He is currently a specially
-appointed Professor in the School of Information Science and Engineering, Wuhan University of Science and Technology and a Research Associate at The Hong Kong Polytechnic University. He has authored or coauthored more than 20 scientific publications in international journals and conferences. He is currently a Reviewer for 15  renowned international journals.
+appointed Professor in the School of Information Science and Engineering, Wuhan University of Science and Technology and a Research Associate at The Hong Kong Polytechnic University. He has authored or coauthored more than 20 scientific publications in international journals and conferences. He is currently a Reviewer for 16  renowned international journals.
