@@ -1,42 +1,47 @@
 ---
-abstract: Despite its impressive performance on semantic segmentation of remote
-  sensing imagery, deep learning requires a large amount of labeled data for
-  model training, which is both laborious and timeconsuming for an individual
-  institution. To cope with this obstacle, federated Learning (FL) has been
-  proposed to enable multiple institutions to train a global model
-  collaboratively without violating privacy rules. However, the performance of
-  FL is poor in the presence of heterogeneous training data, i.e. the data is
-  not independently and identically distributed (non-i.i.d) among participating
-  clients, especially for remote sensing images with high spatial and spectral
-  heterogeneity. In this paper, we propose an FL algorithm combined with
-  prototype-based hierarchical clustering (Fed-PHC). Instead of updating a
-  single global model to capture the shared knowledge of all clients, we utilize
-  a mixture of multiple global models to handle the heterogeneity between
-  various clients using hierarchical clustering (HC) based on the prototypical
-  representations of clients' datasets. As a result, FedPHC can reduce the
-  domain discrepancy within each group and obtain more representative models for
-  heteroge-neous datasets. Extensive experiments on the Inria Aerial Image
-  Dataset confirm the effectiveness of FedPHC.
+abstract: Deep convolutional neural networks (DCNNs) have become the leading
+  tools for object extraction from very-high-resolution (VHR) remote sensing
+  images. However, the label scarcity problem of local datasets hinders the
+  prediction performances of DCNNs, and privacy concerns regarding remote
+  sensing data often arise in the traditional deep learning schemes. To cope
+  with these problems, we propose a novel federated learning scheme with
+  prototype matching (FedPM) to collaboratively learn a richer DCNN model by
+  leveraging remote sensing data distributed among multiple clients. This scheme
+  conducts the federated optimization of DCNNs by aggregating clients’ knowledge
+  in the gradient space without compromising data privacy. Specifically, the
+  prototype matching method is developed to regularize the local training using
+  prototypical representations while reducing the distribution divergence across
+  heterogeneous image data. Furthermore, the derived deviations across local and
+  global prototypes are applied to quantify the effects of local models on the
+  decision boundary and optimize the global model updating via the
+  attention-weighted aggregation scheme. Finally, the sparse ternary compression
+  (STC) method is used to alleviate communication costs. Extensive experimental
+  results derived from VHR aerial and satellite image datasets verify that the
+  FedPM can dramatically improve the prediction performance of DCNNs on object
+  extraction with lower communication costs. To the best of our knowledge, this
+  is the first time that federated learning has been applied for remote sensing
+  visual tasks.
 slides: example
 url_pdf: https://ieeexplore.ieee.org/abstract/document/9883127
 publication_types:
-  - "1"
+  - "2"
 authors:
-  - Boning Zhang
-  - admin*
-  - Man-On Pun
-  - Ming Liu
+  - admin
+  - X Zhang
+  - B Zhang
+  - W Yu
+  - X Kang
 author_notes: []
-publication: In *2022 IEEE International Geoscience and Remote Sensing Symposium*
+publication: "*IEEE Transactions on Geoscience and Remote Sensing* 61, 1-16"
 summary: ""
 url_dataset: ""
 url_project: ""
-publication_short: In *2022 IEEE International Geoscience and Remote Sensing Symposium*
+publication_short: "*IEEE Transactions on Geoscience and Remote Sensing* 61, 1-16"
 url_source: ""
 url_video: ""
-title: Prototype-Based Clustered Federated Learning for Semantic Segmentation of
-  Aerial Images
-doi: 10.1109/IGARSS46834.2022.9883127
+title: Federated Deep Learning With Prototype Matching for Object Extraction
+  From Very-High-Resolution Remote Sensing Images
+doi: 10.1109/TGRS.2023.3244136
 featured: false
 tags: []
 projects:
