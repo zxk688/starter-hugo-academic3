@@ -1,5 +1,5 @@
 ---
-title: Recent & Upcoming Talks
+title: Research Grants
 cms_exclude: true
 
 # View.
