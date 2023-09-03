@@ -9,12 +9,6 @@ item:
     title: Reviewer for Remote Sensing of Environment
     url: https://www.sciencedirect.com/journal/remote-sensing-of-environment
   - date_end: ""
-    date_start: 2023-09-01
-    organization: IF=5.349
-    organization_url: https://www.mdpi.com/journal/remotesensing
-    title: Guest Editor for Remote Sensing
-    url: https://www.mdpi.com/journal/remotesensing
-  - date_end: ""
     date_start: 2022-09-01
     organization: IF=14.255
     organization_url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385
@@ -32,12 +26,6 @@ item:
     organization_url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8859
     title: Reviewer for IEEE Geoscience and Remote Sensing Letters
     url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8859
-  - date_start: 2022-10-01
-    description: ""
-    organization: IF=5.349
-    organization_url: https://www.mdpi.com/journal/remotesensing
-    title: Reviewer for Remote Sensing
-    url: https://www.mdpi.com/journal/remotesensing
   - date_start: 2022-12-19
     description: ""
     organization: IF=8.126
@@ -46,16 +34,10 @@ item:
     url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36
   - date_end: ""
     date_start: 2023-02-01
-    organization: IF
+    organization: 
     organization_url: https://www.tandfonline.com/journals/tjde20
-    title: Reviewer for International Journal of Digital Earth(IF:4.606), Sustainability(IF:3.9), Frontiers in Environmental Science(IF:4.6), Mathematics(IF:2.592), Electronics(IF:2.690), Journal of Electronic Imaging(IF:0.829), IEEE Access(IF:3.476) Applied Sciences(IF:2.838) and Brazilian Archives of Biology and Technology(IF:1.18).
+    title: Reviewer for Expert Systems With Applications(IF:8.665), International Journal of Digital Earth(IF:4.606), Remote Sensing(IF:5.349), Sustainability(IF:3.9), Frontiers in Environmental Science(IF:4.6), Mathematics(IF:2.592), Electronics(IF:2.690), Journal of Electronic Imaging(IF:0.829), IEEE Access(IF:3.476) Applied Sciences(IF:2.838) and Brazilian Archives of Biology and Technology(IF:1.18).
     url: https://www.tandfonline.com/journals/tjde20
-  - date_end: ""
-    date_start: 2023-03-01
-    organization: IF=8.665
-    organization_url: https://www.sciencedirect.com/journal/expert-systems-with-applications
-    title: Reviewer for Expert Systems With Applications.
-    url: https://www.sciencedirect.com/journal/expert-systems-with-applications
   - date_start: 2019-01-01
     title: Communication reviewer for National Natural Science Foundation of China
     organization: NSFC
