@@ -1,6 +1,6 @@
 ---
 title: Grant from Guangdong Zhongke Ruitai Intelligent Technology Co., Ltd
-abstract: "Real-time Object Detection from LiDAR Point Cloud "
+abstract: As PI
 location: China
 date: 2023-09-03T08:10:44.204Z
 date_end: 2023-09-01T08:14:17.934Z
