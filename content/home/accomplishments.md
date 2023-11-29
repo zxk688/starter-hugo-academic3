@@ -15,6 +15,11 @@ item:
     title: Reviewer for Remote Sensing of Environment
     url: https://www.sciencedirect.com/journal/remote-sensing-of-environment
   - date_end: ""
+    date_start: 2023-11-01
+    organization: IF=12.7
+    organization_url: https://www.sciencedirect.com/journal/isprs-journal-of-photogrammetry-and-remote-sensing
+    title: Reviewer for ISPRS Journal of Photogrammetry and Remote Sensing
+  - date_end: ""
     date_start: 2022-09-01
     organization: IF=14.255
     organization_url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385
