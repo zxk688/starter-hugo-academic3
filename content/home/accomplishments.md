@@ -47,7 +47,7 @@ item:
     date_start: 2023-02-01
     organization: 
     organization_url: https://www.tandfonline.com/journals/tjde20
-    title: Reviewer for Expert Systems With Applications(IF:8.665), International Journal of Digital Earth(IF:4.606), Remote Sensing(IF:5.349), Sustainability(IF:3.9), Frontiers in Environmental Science(IF:4.6), Mathematics(IF:2.592), Electronics(IF:2.690), Journal of Electronic Imaging(IF:0.829), IEEE Access(IF:3.476) Applied Sciences(IF:2.838) and Brazilian Archives of Biology and Technology(IF:1.18).
+    title: Reviewer for Expert Systems With Applications(IF:8.665), Engineering Applications of Artificial Intelligence(IF:8), International Journal of Digital Earth(IF:4.606), Remote Sensing(IF:5.349), Sustainability(IF:3.9), Frontiers in Environmental Science(IF:4.6), Mathematics(IF:2.592), Electronics(IF:2.690), Journal of Electronic Imaging(IF:0.829), IEEE Access(IF:3.476) Applied Sciences(IF:2.838) and Brazilian Archives of Biology and Technology(IF:1.18).
     url: https://www.tandfonline.com/journals/tjde20
   - date_start: 2019-01-01
     title: Communication reviewer for National Natural Science Foundation of China
