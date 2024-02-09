@@ -11,7 +11,7 @@ authors:
   - B Huang
 doi: 10.1109/JSTARS.2023.3280947
 publication: "*IEEE Journal of Selected Topics in Applied Earth Observations and
-  Remote Sensing*, 2023"
+  Remote Sensing*"
 draft: false
 featured: false
 image:
@@ -42,5 +42,5 @@ summary: Cloud cover presents a major challenge for geoscience research of
   accomplish thin and thick cloud removal tasks. Extensive experiments on the
   RICE and the WHUS2-CR datasets confirm the impressive performance of
   Cloud-EGAN.
-date: 2024-02-09T15:21:07.724Z
+date: 2023-02-05T15:21:00.000Z
 ---
