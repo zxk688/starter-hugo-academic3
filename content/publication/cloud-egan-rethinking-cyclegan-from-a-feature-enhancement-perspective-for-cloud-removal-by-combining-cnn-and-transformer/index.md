@@ -42,5 +42,5 @@ summary: Cloud cover presents a major challenge for geoscience research of
   accomplish thin and thick cloud removal tasks. Extensive experiments on the
   RICE and the WHUS2-CR datasets confirm the impressive performance of
   Cloud-EGAN.
-date: 2023-02-05T15:21:00.000Z
+date: 2023-06-01T15:21:00.000Z
 ---
