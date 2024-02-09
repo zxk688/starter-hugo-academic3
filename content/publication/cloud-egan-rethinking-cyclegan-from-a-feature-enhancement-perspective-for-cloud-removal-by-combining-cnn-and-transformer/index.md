@@ -9,6 +9,7 @@ authors:
   - admin*
   - MO Pun
   - B Huang
+doi: 10.1109/JSTARS.2023.3280947
 publication: "*IEEE Journal of Selected Topics in Applied Earth Observations and
   Remote Sensing*, 2023"
 draft: false
