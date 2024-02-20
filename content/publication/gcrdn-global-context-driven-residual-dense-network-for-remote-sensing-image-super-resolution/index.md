@@ -9,6 +9,8 @@ authors:
   - admin*
   - MO Pun
 doi: 10.1109/JSTARS.2023.3273081
+publication: "*IEEE Journal of Selected Topics in Applied Earth Observations and
+  Remote Sensing*"
 draft: false
 featured: false
 image:
