@@ -19,8 +19,8 @@ social:
     icon_pack: fab
     link: https://github.com/zxk688
 organizations:
-  - name: The Hong Kong Polytechnic University
-    url: https://www.polyu.edu.hk/en/
+  - name: Wuhan University of Science and Technology
+    url: https://en.wust.edu.cn/
 education:
   courses:
     - course: PhD in Photogrammetry and Remote Sensing
