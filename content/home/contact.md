@@ -36,7 +36,7 @@ content:
   coordinates:
     latitude: '37.4275'
     longitude: '-122.1697'
-  directions: Block Z
+  directions: Steel Building
 
 
 design:
