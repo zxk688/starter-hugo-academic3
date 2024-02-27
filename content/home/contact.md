@@ -27,11 +27,11 @@ content:
   # Contact details (edit or remove options as required)
   email: natezhangxk@gmail.com
   address:
-    street: 181 Chatham Road South
-    city: Hung Hom
-    region: Kowloon
+    street: 947 Heping Avenue, Qingshan District
+    city: Wuhan
+    region: Hubei
     postcode: '518172'
-    country: Hong Kong
+    country: China
     country_code: CHN
   coordinates:
     latitude: '37.4275'
