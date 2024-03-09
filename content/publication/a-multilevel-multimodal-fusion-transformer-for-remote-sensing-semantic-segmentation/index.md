@@ -8,7 +8,7 @@ authors:
   - X. Zhang*
   - M. -O. Pun and M. Liu
 author_notes:
-  - IEEE Transactions on Geoscience and Remote Sensing
+  - "*IEEE Transactions on Geoscience and Remote Sensing*"
 doi: 10.1109/TGRS.2024.3373033
 abstract: Accurate semantic segmentation of remote sensing data plays a crucial
   role in the success of geoscience research and applications. Recently,
