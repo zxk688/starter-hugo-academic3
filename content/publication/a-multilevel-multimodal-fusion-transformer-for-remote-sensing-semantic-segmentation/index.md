@@ -9,7 +9,7 @@ authors:
   - M. -O. Pun and M. Liu
 author_notes: []
 doi: 10.1109/TGRS.2024.3373033
-publication: "*IEEE Transactions on Geoscience and Remote Sensing*"
+publication: "*IEEE Transactions on Geoscience and Remote Sensing*,2024"
 abstract: Accurate semantic segmentation of remote sensing data plays a crucial
   role in the success of geoscience research and applications. Recently,
   multimodal fusion-based segmentation models have attracted much attention due
