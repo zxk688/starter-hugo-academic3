@@ -8,6 +8,7 @@ authors:
   - Xuan Yang
   - admin*
   - Jón Atli Benediktsson
+doi: " 10.1109/LGRS.2022.3163169"
 publication_short: IEEE Geoscience and Remote Sensing Letters 19, 1-5
 draft: false
 featured: false
