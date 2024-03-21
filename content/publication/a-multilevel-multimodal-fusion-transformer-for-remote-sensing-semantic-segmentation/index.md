@@ -5,7 +5,7 @@ publication_types:
   - "0"
 authors:
   - X. Ma
-  - X. Zhang*
+  - admin*
   - M. -O. Pun and M. Liu
 author_notes: []
 doi: 10.1109/TGRS.2024.3373033
