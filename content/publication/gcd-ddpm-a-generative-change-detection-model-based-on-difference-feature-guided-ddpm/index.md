@@ -6,7 +6,7 @@ publication_types:
 authors:
   - Y. Wen
   - X. Ma
-  - admin* and M. -O. Pun
+  - admin and M. -O. Pun
 doi: 10.1109/TGRS.2024.3381752
 publication: IEEE Transactions on Geoscience and Remote Sensing,2024
 draft: false
