@@ -10,7 +10,8 @@ authors:
   - admin*
   - M. -O. Pun and J. Liu
 doi: " 10.1109/TGRS.2024.3411671"
-publication: IEEE Transactions on Geoscience and Remote Sensing, 2024
+publication: ""
+publication_short: IEEE Transactions on Geoscience and Remote Sensing, 2024
 draft: false
 featured: false
 image:
