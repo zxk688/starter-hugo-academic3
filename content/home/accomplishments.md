@@ -3,6 +3,12 @@ widget: accomplishments
 date_format: Jan 2006
 item:
   - date_end: ""
+    date_start: 2024-07-01
+    organization: Special Issue "Global, Regional and Cross-Event Transferability of Deep Learning and Machine Learning Models for Landslide Detection and Susceptibility Mapping"
+    organization_url: https://www.mdpi.com/journal/remotesensing/special_issues/PFP8Y0P335
+    title: Guest Editor for Remote Sensing 
+    url: https://www.mdpi.com/journal/remotesensing/special_issues/PFP8Y0P335
+  - date_end: ""
     date_start: 2023-09-01
     organization: Special Issue "New Deep Learning Paradigms for Multisource Remote Sensing Data Fusion and Classification"
     organization_url: https://www.mdpi.com/journal/remotesensing/special_issues/49I6J3V68K
