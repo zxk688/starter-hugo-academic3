@@ -1,4 +1,4 @@
----
+`---
 title: Xiaokang Zhang
 role: PhD
 avatar_filename: avatar.jpg
@@ -35,6 +35,7 @@ highlight_name: true
 first_name: Alice
 email: natezhangxk@gmail.com
 ---
-***<font color="red"> I am looking for self-motivated students, research assistants and visiting scholars! Please drop me an email if you are interested in working with me! </font>***
+***<font color="red"> Contrags that our two papers are selected as ESI highly cited papers! </font>***
+***<font color="red"> I am looking for self-motivated PhD students, research assistants, and visiting scholars! Please drop me an email if you are interested in working with me! </font>***
 
 Dr. Zhang Xiaokang (张效康) received a Ph.D. degree in photogrammetry and remote sensing from Wuhan University in 2018. He is currently a specially appointed professor in the School of Information Science and Engineering, Wuhan University of Science and Technology and a Research Associate at The Hong Kong Polytechnic University. His research interests include remote sensing image analysis and machine learning. He has authored or coauthored more than 40 scientific publications in international journals and conferences. He is an **IEEE Senior Member** and a Reviewer for more than 30 renowned international journals.
