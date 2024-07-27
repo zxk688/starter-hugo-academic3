@@ -19,7 +19,7 @@ social:
     icon_pack: fab
     link: https://github.com/zxk688
   - display:
-      header: true
+      header: false
     link: https://www.linkedin.com/in/xiaokang-zhang-865377318/
     icon_pack: ai
     icon: linkedin
