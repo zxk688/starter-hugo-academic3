@@ -22,7 +22,7 @@ social:
       header: true
     link: https://www.linkedin.com/in/xiaokang-zhang-865377318/
     icon_pack: ai
-    icon: linkeid
+    icon: linkedin
 organizations:
   - name: Wuhan University of Science and Technology
     url: https://en.wust.edu.cn/
