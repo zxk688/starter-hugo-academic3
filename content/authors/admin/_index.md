@@ -18,6 +18,11 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/zxk688
+  - display:
+      header: false
+    link: https://www.linkedin.com/in/xiaokang-zhang-865377318/
+    icon_pack: fas
+    icon: LinkeID
 organizations:
   - name: Wuhan University of Science and Technology
     url: https://en.wust.edu.cn/
