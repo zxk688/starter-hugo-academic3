@@ -20,6 +20,12 @@ item:
     organization_url: https://www.sciencedirect.com/journal/remote-sensing-of-environment
     title: Reviewer for Remote Sensing of Environment
     url: https://www.sciencedirect.com/journal/remote-sensing-of-environment
+- date_end: ""
+    date_start: 2024-04-01
+    organization: IF=8.5
+    organization_url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046
+    title: Reviewer for IEEE Transactions on Multimedia
+    url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046
   - date_end: ""
     date_start: 2023-11-01
     organization: IF=12.7
@@ -53,7 +59,7 @@ item:
     date_start: 2023-02-01
     organization: 
     organization_url: https://www.tandfonline.com/journals/tjde20
-    title: Reviewer for IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing(IF:5.5), IEEE Geoscience and Remote Sensing Letters(IF:5.343), Resources, Environment and Sustainability(IF:12.4), Knowledge-Based Systems(IF:8.8), Expert Systems With Applications(IF:8.665), Engineering Applications of Artificial Intelligence(IF:8), Pattern Recognition(IF:7.5), Neurocomputing(IF:5.5), Advances in Space Research (IF:2.6), Ecological Indicators(IF:6.9), International Journal of Digital Earth(IF:4.606), Remote Sensing(IF:5.349),  Artificial Intelligence In Medicine(IF:7.5), Sustainability(IF:3.9), International Journal of Intelligent Systems(IF:7.0), Frontiers in Environmental Science(IF:4.6), Earth Science Informatics(IF:2.8), Mathematics(IF:2.592), Electronics(IF:2.690), Signal, Image and Video Processing(IF:2.3), Journal of Electronic Imaging(IF:0.829), IEEE Access(IF:3.476), Sensors(3.9), Applied Sciences(IF:2.838) and Brazilian Archives of Biology and Technology(IF:1.18).
+    title: Reviewer for IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing(IF:5.5), IEEE Geoscience and Remote Sensing Letters(IF:5.343), Resources, Environment and Sustainability(IF:12.4), Knowledge-Based Systems(IF:8.8), Expert Systems With Applications(IF:8.665), Engineering Applications of Artificial Intelligence(IF:8), Computers and Electronics in Agriculture(IF:7.7), Pattern Recognition(IF:7.5), Neurocomputing(IF:5.5), Advances in Space Research (IF:2.6), Ecological Indicators(IF:6.9), International Journal of Digital Earth(IF:4.606), Remote Sensing(IF:5.349),  Artificial Intelligence In Medicine(IF:7.5), Sustainability(IF:3.9), International Journal of Intelligent Systems(IF:7.0), Frontiers in Environmental Science(IF:4.6), Earth Science Informatics(IF:2.8), Mathematics(IF:2.592), Electronics(IF:2.690), Signal, Image and Video Processing(IF:2.3), Journal of Electronic Imaging(IF:0.829), IEEE Access(IF:3.476), Sensors(3.9), Applied Sciences(IF:2.838) and Brazilian Archives of Biology and Technology(IF:1.18).
     url: https://www.tandfonline.com/journals/tjde20
   - date_start: 2019-01-01
     title: Communication reviewer for National Natural Science Foundation of China
