@@ -10,6 +10,7 @@ authors:
   - admin
   - MO Pun
   - B Huang
+doi: 10.1109/TGRS.2024.3443420
 draft: false
 featured: false
 image:
