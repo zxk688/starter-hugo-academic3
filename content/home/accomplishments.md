@@ -20,7 +20,7 @@ item:
     organization_url: https://www.sciencedirect.com/journal/remote-sensing-of-environment
     title: Reviewer for Remote Sensing of Environment
     url: https://www.sciencedirect.com/journal/remote-sensing-of-environment
-- date_end: ""
+  - date_end: ""
     date_start: 2024-04-01
     organization: IF=8.5
     organization_url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046
