@@ -1,7 +1,7 @@
 ---
 title: SAM-Assisted remote sensing imagery semantic segmentation with object and
   boundary constraints
-subtitle: IEEE Transactions on Geoscience and Remote Sensing, 2024.
+subtitle: ""
 publication_types:
   - "0"
 authors:
@@ -12,6 +12,7 @@ authors:
   - MO Pun
   - B Huang
 doi: 10.1109/TGRS.2024.3443420
+publication_short: "*IEEE Transactions on Geoscience and Remote Sensing*, 2024."
 draft: false
 featured: false
 image:
