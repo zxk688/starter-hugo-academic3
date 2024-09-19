@@ -28,11 +28,12 @@ organizations:
     url: https://en.wust.edu.cn/
 education:
   courses:
-    - course: PhD in Photogrammetry and Remote Sensing
-      institution: Wuhan University
+    - course: PhD in Wuhan University
+      institution: "Supervisor: Prof. Wenzhong SHI and Prof. Jianyan Gong"
       year: 2018
-    - course: MEng in Geomatics Engineering
-      institution: Wuhan University
+    - course: MEng in  Wuhan University
+      institution: "Supervisor: Prof. Jianya Gong ( Academician of Chinese Academy of
+        Science)"
       year: 2013
 superuser: true
 last_name: Bighetti
