@@ -2,6 +2,12 @@
 widget: accomplishments
 date_format: Jan 2006
 item:
+- date_end: ""
+    date_start: 2024-09-01
+    organization: IF: 10.8
+    organization_url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83
+    title: IEEE Transactions on Image Processing
+    url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83
   - date_end: ""
     date_start: 2024-07-01
     organization: Special Issue "Global, Regional and Cross-Event Transferability of Deep Learning and Machine Learning Models for Landslide Detection and Susceptibility Mapping"
