@@ -9,7 +9,7 @@ authors:
   - M. Zhang
   - W. Yu and P. Ghamisi
 doi: 10.1109/TGRS.2024.3476151
-publication_short: IEEE Transactions on Geoscience and Remote Sensing
+publication_short: IEEE Transactions on Geoscience and Remote Sensing, 2024.
 abstract: Developing a cross-domain classification model for remote sensing
   images has drawn significant attention in the literature. By leveraging the
   open-set Unsupervised Domain Adaptation (UDA) technique, the generalization
