@@ -7,7 +7,8 @@ authors:
   - admin
   - W. Wu
   - M. Zhang
-  - W. Yu and P. Ghamisi
+  - W. Yu
+  - P. Ghamisi
 publication: "*IEEE Transactions on Geoscience and Remote Sensing*"
 draft: false
 featured: false
