@@ -2,9 +2,12 @@
 title: Prototypical Unknown-Aware Multiview Consistency Learning for Open-Set
   Cross-Domain Remote Sensing Image Classification
 publication_types:
-  - "2"
+  - "0"
 authors:
-  - Xiaokang Zhang
+  - X. Zhang
+  - W. Wu
+  - M. Zhang
+  - W. Yu and P. Ghamisi
 publication: IEEE Transactions on Geoscience and Remote Sensing
 draft: false
 featured: false
