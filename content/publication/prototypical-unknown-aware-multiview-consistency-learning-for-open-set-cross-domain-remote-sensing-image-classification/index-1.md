@@ -4,7 +4,7 @@ title: Prototypical Unknown-Aware Multiview Consistency Learning for Open-Set
 publication_types:
   - "0"
 authors:
-  - admin
+  - Xiaokang Zhang
   - W. Wu
   - M. Zhang
   - W. Yu and P. Ghamisi
