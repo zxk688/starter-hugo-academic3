@@ -5,9 +5,6 @@ publication_types:
   - "0"
 authors:
   - Xiaokang Zhang
-  - W. Wu
-  - M. Zhang
-  - W. Yu and P. Ghamisi
 draft: false
 featured: false
 image:
