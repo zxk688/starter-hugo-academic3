@@ -34,9 +34,9 @@ abstract: Developing a cross-domain classification model for remote sensing
   between different classes and compact clustering of unknown samples in the
   feature space. The source code will be available at https://github.com/zxk688.
 draft: false
-featured: false
+featured: true
 image:
-  filename: featured
+  filename: abstract.png
   focal_point: Smart
   preview_only: false
 date: 2024-10-10T03:53:16.623Z
