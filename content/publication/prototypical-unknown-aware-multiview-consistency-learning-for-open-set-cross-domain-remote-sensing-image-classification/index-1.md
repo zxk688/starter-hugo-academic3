@@ -5,6 +5,7 @@ publication_types:
   - "2"
 authors:
   - Xiaokang Zhang
+publication: IEEE Transactions on Geoscience and Remote Sensing
 draft: false
 featured: false
 image:
