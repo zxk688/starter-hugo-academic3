@@ -11,7 +11,7 @@ authors:
   - P. Ghamisi
 publication: "*IEEE Transactions on Geoscience and Remote Sensing*"
 draft: false
-featured: false
+featured: true
 image:
   filename: featured
   focal_point: Smart
